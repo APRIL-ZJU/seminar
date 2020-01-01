@@ -1,4 +1,4 @@
-# Perception and Learning Seminar
+# Seminar for Robotics and Perception Group
 
 **Time**
 
