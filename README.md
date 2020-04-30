@@ -1,79 +1,91 @@
 # Seminar for APRIL Lab
 
-中文介绍请见[此文档](README_CN.md)。
+**研讨会时间**
 
-**Time**
+- 论文阅读组：每1至2周一次。
+- 领域研讨组：未定。
 
-- Reading Group: Not determined yet.
-- Study Group: Not determined yet.
+## 目录
 
-## Table of Contents
+- [当前时间表](#当前时间表)
+- [往日研讨会](#往日研讨会)
+- [常见问题](#常见问题)
+- [关于我们](#关于我们)
 
-- [Current Schedule (Spring 2020)](#current-schedule)
-- [Previous Meetings](#previous-meetings)
-- [FAQ](#faq)
-- [About Us](#about-us)
+## 当前时间表
 
-## Current Schedule
+研讨类型：
 
-*Please let the organizers know what paper you are going to present and your summary one week before your presentation. Also, please send your slides or a link to them to the organizers once you finish preparing them.*
+- 领域介绍：分享某一研究领域的概况、发展历程与先进方法；
+- 论文研讨：分享某一研究领域内的一至三篇论文。
 
-### Reading Group: Not determined yet
+每次研讨会的演示文稿与录像，可在实验室NAS的`/lab/Seminar`路径中找到。
 
-- **Field introduction**: the presenter will share the overview, history and representative methods of a specific reserach field.
-- **Paper discussion**: the presenter will share one to three latest papers in his research field.
+### 论文阅读组
+
+- 时间：每1至2周一次，遇到考试周或者节假日往后顺延；
+- 参会人员：视觉1、2组同学必须参加，若有事提前在群里请假，其他小组的同学不强制，感兴趣可以参加；
+- 具体要求：
+  - 论文要求：整理距离上一次分享后的所有自己研究领域的paper（以顶会顶刊为主），在演讲开始前2至3天给出paper list。
+  - 演讲要求：讲的内容为从paper list挑选5-8篇比较有代表性的paper做ppt进行分享，其余文章可以总结性概况。要求主讲人对挑选的文章仔细阅读，能经得住大家的细节提问，并有自己的comments，不能只是复述文章贴实验结果。
+  - 如果是第一次分享，可以整理近2年的文章及经典工作，加3至5页自己领域的总体介绍。
+
+| Date       | Presenter | Topic                               |
+| ---------- | --------- | ----------------------------------- |
+| 2020-04-08 | 刘亮      | NAS发展简述                         |
+| 2020-04-23 | 王蒙蒙    | 视频行为识别研究与落地              |
+| 2020-05-08 | 张江宁    | NAS相关最新进展（暂定）             |
+| 2020-05-13 | 杨小倩    | Image/Video pose estimation（暂定） |
+
+### 领域研讨组：未定
+
+研讨类型：
+
+- 新人教学：分享新生应该知道的基础知识、学习方法以及实验室相关情况；
+- 技术分享：介绍某一与研究相关的最新技术。
 
 | Date | Presenter | Topic                    |
 | ---- | --------- | ------------------------ |
 | N/A  | Nobody    | How to slack off happily |
 
-### Study Group: Not determined yet
-
-- **Newcomer teaching**: the presenter will share the basics, learning methods and laboratory-related information that freshmen should know.
-
-- **Technology sharing**: the presenter will introduce the latest research-related technology.
-
-| Date | Presenter | Topic                    |
-| ---- | --------- | ------------------------ |
-| N/A  | Nobody    | How to slack off happily |
-
-## Previous Meetings
+## 往日研讨会
 
 N/A
 
-## FAQ
+## 常见问题
 
-**How is the presenters' order generated?**
+**演讲者的顺序如何产生？**
 
-The order is generated from the registration list in a FIFO manner.
+根据先入先出规则，报名早的演讲者先进行演讲。
 
-**Who is responsible if I can not present at the scheduled time? What should I do?**
+**当演讲者不能再预定时间出席时，由谁负责任？如何处理？**
 
-Yourself. As early as possible, let the organizers know about your situation. Also contact other presenters to see if they are willing to swap dates with you.
+由演讲者自身负责。演讲者应尽早通知组织者，并联系其他人来替换。
 
-**I have a question not listed here...**
+**我还有其他问题。**
 
-Then ask by sending an e-mail to the orginazers.
+请直接联系组织者询问。
 
-## About Us
+## 关于我们
 
-**How it works?** 
+**研讨会如何进行？**
 
-We are a group that meets about once a week to discuss one to three relevant papers.
+每周一次，每次一名演讲者。演讲者与观众互动讨论一至三篇相关的论文。会前，演讲人须精读论文，听众可以粗看该论文，了解大意；会中，演讲人领导讨论，并与听众研究其中的优缺点与技术细节。
 
-**What we read?**
+**研讨会阅读哪些文章？**
 
-- Computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and journals
+- 计算机视觉会议（如CVPR、ICCV、ECCV、SIGGRAPH、SIGGRAPH Asia等）及期刊
 
-- Machine learning conferences (e.g., NIPS, ICML, ICLR, UAI, AAAI, IJCAI, AISTATS) and journals
-- Robotics conferences (e.g., ICRA, IROS) and journals
-- Unpublished papers in pre-print websites (e.g., ArXiv)
+- 机器学习会议（如NIPS、ICML、ICLR、UAI、AAAI、IJCAI、AISTATS等）及期刊
+- 机器人会议（如ICRA、IROS等）及期刊
+- 预印本平台（如ArXiv等）上的未发表论文
 
-**Who can join?**
+**谁能参加研讨会？**
 
-This seminar is mainly opened for students in APRIL Lab, Zhejiang University. Anyone else in the Hangzhou is also welcome. As long as you are interested in learning more about the fields (by reading cutting-edge research papers), you are welcome to join.
+研讨会主要为浙江大学APRIL实验室的学生举办。只要有兴趣都可以前来参加。
 
-**Orginazers?**
+**当前组织者是谁？**
 
-- Yusu Pan
-- Liang Liu
+- 王蒙蒙
+- 刘亮
+- 潘雨粟
